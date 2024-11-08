@@ -1,2 +1,2 @@
-tellraw @a {"text":"RELOADED XRAY","color":"yellow"}
+tellraw @a {"text":"RELOADED DEATHFINDER","color":"yellow"}
 
