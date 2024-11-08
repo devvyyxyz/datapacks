@@ -1,6 +1,7 @@
 {
     "values": [
       "dev:disable_chat_output",
+      "dev:reload",
       "recraftables:welcome",
       "recraftables:setup_welcome_toggle"
     ]
