@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AA ",
+      "BB ",
+      "AA "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:stone"
+      },
+      "B": {
+        "item": "minecraft:gravel"
+      }
+    },
+    "result": {
+      "item": "minecraft:tuff",
+      "count": 1
+    }
+  }
+  

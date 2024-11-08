@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      "BCB",
+      " D "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:leather"
+      },
+      "B": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "C": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "D": {
+        "item": "minecraft:feather"
+      }
+    },
+    "result": {
+      "item": "minecraft:elytra",
+      "count": 1
+    }
+  }
+  

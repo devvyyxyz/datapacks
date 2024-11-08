@@ -1,20 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "AAA",
-      "ABA",
-      "AAA"
+      " A ",
+      " B ",
+      " A "
     ],
     "key": {
       "A": {
-        "item": "minecraft:amethyst_shard"
+        "item": "minecraft:cherry_log"
       },
       "B": {
-        "item": "minecraft:block_of_amethyst"
+        "item": "minecraft:cherry_leaves"
       }
     },
     "result": {
-      "item": "minecraft:budding_amethyst",
+      "item": "minecraft:cherry_sapling",
       "count": 1
     }
   }

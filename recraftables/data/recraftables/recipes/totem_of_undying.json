@@ -1,14 +1,23 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-      "#"
-    ],
-    "key": {
-      "#": {
-        "item": "minecraft:gold_block"
-      }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:emerald"
     },
-    "result": {
+    "B": {
+      "item": "minecraft:golden_apple"
+    },
+    "C": {
       "item": "minecraft:totem_of_undying"
     }
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1
   }
+}

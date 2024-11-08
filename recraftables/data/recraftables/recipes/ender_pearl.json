@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      " B ",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:blaze_powder"
+      },
+      "B": {
+        "item": "minecraft:endereye"
+      },
+      "C": {
+        "item": "minecraft:ender_pearl"
+      }
+    },
+    "result": {
+      "item": "minecraft:ender_pearl",
+      "count": 1
+    }
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      " A ",
+      "BCB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:diamond"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      },
+      "C": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:trident",
+      "count": 1
+    }
+  }
+  

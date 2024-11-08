@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:stone"
+      },
+      "B": {
+        "item": "minecraft:bone_meal"
+      }
+    },
+    "result": {
+      "item": "minecraft:calcite",
+      "count": 1
+    }
+  }
+  

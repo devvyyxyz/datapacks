@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:mangrove_log"
+    },
+    "B": {
+      "item": "minecraft:mangrove_leaves"
+    }
+  },
+  "result": {
+    "item": "minecraft:mangrove_sapling",
+    "count": 1
+  }
+}

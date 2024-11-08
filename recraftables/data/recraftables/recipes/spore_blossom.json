@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      " B ",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:leaves"
+      },
+      "B": {
+        "item": "minecraft:spore_blossom"
+      },
+      "C": {
+        "item": "minecraft:bone_meal"
+      }
+    },
+    "result": {
+      "item": "minecraft:spore_blossom",
+      "count": 1
+    }
+  }
+  

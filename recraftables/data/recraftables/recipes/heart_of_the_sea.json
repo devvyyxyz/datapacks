@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      " B ",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:nautilus_shell"
+      },
+      "B": {
+        "item": "minecraft:heart_of_the_sea"
+      },
+      "C": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:heart_of_the_sea",
+      "count": 1
+    }
+  }
+  

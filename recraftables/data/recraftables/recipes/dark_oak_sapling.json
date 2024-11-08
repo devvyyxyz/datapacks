@@ -1,20 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "AAA",
-      "ABA",
-      "AAA"
+      " AA ",
+      " BB ",
+      " AA "
     ],
     "key": {
       "A": {
-        "item": "minecraft:amethyst_shard"
+        "item": "minecraft:dark_oak_log"
       },
       "B": {
-        "item": "minecraft:block_of_amethyst"
+        "item": "minecraft:leaves"
       }
     },
     "result": {
-      "item": "minecraft:budding_amethyst",
+      "item": "minecraft:dark_oak_sapling",
       "count": 1
     }
   }
