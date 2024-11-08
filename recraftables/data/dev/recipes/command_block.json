@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:stone"
+      },
+      "B": {
+        "item": "minecraft:nether_quartz"
+      }
+    },
+    "result": {
+      "item": "minecraft:command_block",
+      "count": 1
+    }
+  }
+  

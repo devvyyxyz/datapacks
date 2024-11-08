@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:soul_sand"
+      },
+      "B": {
+        "item": "minecraft:ghast_tear"
+      }
+    },
+    "result": {
+      "item": "minecraft:nether_star",
+      "count": 1
+    }
+  }
+  
