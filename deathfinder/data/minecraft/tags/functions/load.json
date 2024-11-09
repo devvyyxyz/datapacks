@@ -1,6 +1,5 @@
 {
     "values": [
-      "deathfinder:trigger_death_advancement",
       "deathfinder_dev:reload"
     ]
   }
