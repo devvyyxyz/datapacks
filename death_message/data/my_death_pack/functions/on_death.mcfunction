@@ -1,0 +1,5 @@
+execute as @a[scores={death_trigger=1..}] at @s run execute store result score @s roundedX run data get entity @s Pos[0] 1
+execute as @a[scores={death_trigger=1..}] at @s run execute store result score @s roundedY run data get entity @s Pos[1] 1
+execute as @a[scores={death_trigger=1..}] at @s run execute store result score @s roundedZ run data get entity @s Pos[2] 1
+
+execute as @a[scores={death_trigger=1..}] at @s run tellraw @a [ {"text":"Player "}, {"selector":"@s","color":"aqua"}, {"text":" has died at ","color":"red"}, {"text":"X: ","color":"yellow"}, {"score":{"name":"@s","objective":"roundedX"},"color":"yellow"}, {"text":" Y: ","color":"yellow"}, {"score":{"name":"@s","objective":"roundedY"},"color":"yellow"}, {"text":" Z: ","color":"yellow"}, {"score":{"name":"@s","objective":"roundedZ"},"color":"yellow"} ]

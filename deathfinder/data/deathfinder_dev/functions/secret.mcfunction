@@ -1,1 +1,0 @@
-summon minecraft:slime ~ ~1 ~ {Size:1,Passengers:[{id:"minecraft:slime",Size:0,CustomName:"\"Larry\"",CustomNameVisible:1,Glowing:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1}],Silent:1}]}
